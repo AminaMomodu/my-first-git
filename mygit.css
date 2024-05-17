@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+input[type="submit"] {
+  background-color: #2de0e0;
+  color: white;
+  padding: 1%;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.cityname {
+  background-color: #c8f1f1;
+  border-radius: 2px;
+  font-size: 20px;
+}
+h1 {
+  font-weight: lighter;
+  color: #7c7c7c;
+}
+p {
+  color: #7c7c7c;
+  font-size: larger;
+}
+.temp {
+  color: #7c7c7c;
+  font-size: 50px;
+}
+span {
+  font-size: 15px;
+  position: relative;
+  top: -25px;
+}
+.faren {
+  position: relative;
+  position: relative;
+  top: -1px;
+  color: #39d3d3;
+}
+.precip {
+  color: #7c7c7c;
+  font-size: larger;
+  position: relative;
+  top: -50px;
+  left: 200px;
+}
